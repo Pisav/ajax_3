@@ -1,0 +1,16 @@
+body {
+	text-align: center;
+	background-color: orange;
+}
+
+body h1 {
+	font-size: 25px;
+}
+
+#txtHint {
+	padding-top: 10px;
+}
+
+#txtHint table {
+	margin: 0 auto;
+}
